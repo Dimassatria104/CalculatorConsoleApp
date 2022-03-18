@@ -1,0 +1,8 @@
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.AssemblyReference.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\obj\Debug\Project Calculator.csproj.CoreCompileInputs.cache
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\bin\Debug\Project Calculator.exe.config
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\bin\Debug\Project Calculator.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\bin\Debug\Project Calculator.pdb
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\obj\Debug\Project Calculator.exe
+D:\Dimas\KULIAH DIMAS\Semester 2\Pemrograman\Calculator\Project Calculator\Project Calculator\obj\Debug\Project Calculator.pdb
